@@ -14,6 +14,7 @@
 		BD240B992CB6048B0066A061 /* AriasSoundBoard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BD240B972CB6048B0066A061 /* AriasSoundBoard.xcdatamodeld */; };
 		BD240B9B2CB6048C0066A061 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD240B9A2CB6048C0066A061 /* Assets.xcassets */; };
 		BD240B9E2CB6048C0066A061 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD240B9C2CB6048C0066A061 /* LaunchScreen.storyboard */; };
+		BD8469482CB6430E003FC257 /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8469472CB6430E003FC257 /* SoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BD240B9A2CB6048C0066A061 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD240B9D2CB6048C0066A061 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD240B9F2CB6048C0066A061 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD8469472CB6430E003FC257 /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				BD240B9C2CB6048C0066A061 /* LaunchScreen.storyboard */,
 				BD240B9F2CB6048C0066A061 /* Info.plist */,
 				BD240B972CB6048B0066A061 /* AriasSoundBoard.xcdatamodeld */,
+				BD8469472CB6430E003FC257 /* SoundViewController.swift */,
 			);
 			path = AriasSoundBoard;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				BD240B992CB6048B0066A061 /* AriasSoundBoard.xcdatamodeld in Sources */,
 				BD240B8F2CB6048B0066A061 /* AppDelegate.swift in Sources */,
 				BD240B912CB6048B0066A061 /* SceneDelegate.swift in Sources */,
+				BD8469482CB6430E003FC257 /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
